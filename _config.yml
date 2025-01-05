@@ -135,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Thinking in Binary # blog_name will be displayed in your blog page
+blog_description: Sharing my journey as a Computer Engineering student, one line of code at a time. Explore tutorials, projects, and insights into the world of technology.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
